@@ -1242,8 +1242,8 @@ timeline.push
   //age,
   //search_check,
   //comment,
-  save_data
-  //prolific
+  save_data,
+  prolific
   )
 
 jsPsych.run(timeline)
